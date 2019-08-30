@@ -1,0 +1,92 @@
+body {
+	background: linear-gradient(to right, mediumpurple, lightsalmon);
+}
+
+h1 {
+	text-align: center;
+	color: white;
+} 
+
+p {
+	text-align: center;
+	color: white;
+}
+h2 {
+	width: 1000px;
+	background-color: #ff6699;
+	text-align: center;
+	padding: 15;
+	color: black;
+}
+
+#calendario {
+	
+	width: 1000px;
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+}
+
+
+#anterior {
+	position: absolute;
+	width: 100px;
+	padding: 15px;
+	margin:20px; 
+	left: 205px;
+	text-align: center;
+	list-style-type: none;
+	color: white;
+}
+
+#posterior {
+	position:absolute;
+	width: 100px;
+	padding: 15px;
+	margin: 20px;
+	right: 205px;
+	text-align: center;
+	list-style-type: none;
+	color: white;
+}
+
+#diasc {
+	background-color:  #ffccb3;
+	width: 1000px;
+	margin:0 ;
+	border: 1px solid black;
+	text-align: center;
+}
+
+th {
+	width: 10%;
+	text-align: center;
+	vertical-align: top;
+	border: 1px solid black;
+	padding: 15px;
+}
+
+#fila0 {
+	background-color:#ffff80;
+}
+
+#fechaactual{
+	width: 1000px;
+	background-color: #ff6699;
+	padding: 15px;
+}
+/*.titulos {
+	text-align: :center;
+}
+.tittle {
+	text-align: center;
+	color: black;
+
+}
+.diasc {
+ 	text-align: center;
+ 	width: 50%;
+ }
+ th, td{
+ 	width: 15%;
+ }*/
