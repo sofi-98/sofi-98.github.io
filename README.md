@@ -1,3 +1,2 @@
-# sofi-98.github.io
-
-https://sofi-98.github.io/
+# lab1Web
+Laboratorio 1, Curso Introducción al Desarrollo de Páginas Web
